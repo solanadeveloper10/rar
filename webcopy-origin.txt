@@ -1,0 +1,268 @@
+Uri: https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\npm\@studio-freight\lenis@latest\dist\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://www.fricofficial.xyz/
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.fricofficial.xyz/favicon.ico
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.fricofficial.xyz/fonts/Love.ttf
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\fonts\Love.ttf
+Content Type: font/ttf
+
+Uri: https://www.fricofficial.xyz/fonts/Vividly-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\fonts\Vividly-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.fricofficial.xyz/gif/landingAnimation.gif
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\gif\landingAnimation.gif
+Content Type: image/gif
+
+Uri: https://www.fricofficial.xyz/images/01.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\01.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/02.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\02.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/backToTop.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\backToTop.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border2.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border2.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border3.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border3.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border4.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border4.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border5.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border5.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border6.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border6.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border7.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border7.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/borders/border8.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\borders\border8.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/ca.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\ca.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/callToAction.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\callToAction.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/dex.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\dex.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/fric-l.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\fric-l.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/fric-love.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\fric-love.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/fric-r.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\fric-r.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/gateio.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\gateio.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/ig.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\ig.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/jupiter.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\jupiter.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/mexc.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\mexc.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/moonshot.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\moonshot.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/paused.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\paused.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/accessories/design1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\accessories\design1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/bg/bg1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\bg\bg1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/body-colors/color1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\body-colors\color1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/eyes/eye1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\eyes\eye1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/icon/icon_1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\icon\icon_1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/icon/icon_2.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\icon\icon_2.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/icon/icon_3.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\icon\icon_3.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/mouth/mouth1.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\mouth\mouth1.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/pfp-generator/shape/shape.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\pfp-generator\shape\shape.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/phantom.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\phantom.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/playing.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\playing.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7839.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7839.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7840.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7840.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7841.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7841.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7842.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7842.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7843.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7843.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7844.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7844.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7845.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7845.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7847.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7847.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7848.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7848.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7849.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7849.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7850.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7850.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7851.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7851.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7852.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7852.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7853.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7853.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7854.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7854.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7855.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7855.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7856.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7856.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7857.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7857.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/IMG_7858.PNG
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\IMG_7858.PNG
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/selected_pics/photo_2024-12-28_15-35-24.jpg
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\selected_pics\photo_2024-12-28_15-35-24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fricofficial.xyz/images/tlg.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\tlg.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/wakeupBtn.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\wakeupBtn.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/x.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\x.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/images/xt.png
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\images\xt.png
+Content Type: image/png
+
+Uri: https://www.fricofficial.xyz/mp3/lofi-beat.mp3
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\mp3\lofi-beat.mp3
+Content Type: audio/mp3
+
+Uri: https://www.fricofficial.xyz/script.js
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\script.js
+Content Type: application/javascript
+
+Uri: https://www.fricofficial.xyz/style.css
+File Name: C:\Downloaded Web Sites\www.fricofficial.xyz\style.css
+Content Type: text/css
+
